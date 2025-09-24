@@ -59,4 +59,7 @@
     "vite-bundle-visualizer": "^1.2.1",
     "vite-plugin-bundle-obfuscator": "^1.8.0"
   }
+  "scripts": {
+  "start": "node src/index.js"
 }
+
